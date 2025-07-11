@@ -40,5 +40,6 @@ README.md: este archivo
 
 ## Autores
 Jose Enrique Montoya 201820110033
-
+Kevin Javier Espinal 202210110039
+Oscar Alonso reyes   202410110040
 ## Video de explicación
